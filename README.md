@@ -1,2 +1,2 @@
 # roblox-myenv
-A thing for processing some environment.
+An implementation of classes with environments.
